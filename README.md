@@ -1,2 +1,4 @@
-# CIS-115
-This is class work I completed in CIS-115 at FTCC.
+# CIS-115 Repository
+Created for M5LAB
+Harper
+28 March 2019
